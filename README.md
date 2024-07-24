@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is OM SALUNKE and I'm a Fullstack Web |App | Blockchain Developer, from pune</h2>
+<h2 align="left">Hi 👋! My name is OM SALUNKE and I'm a Fullstack Web | App | Blockchain Developer, from pune</h2>
 
 ###
 
