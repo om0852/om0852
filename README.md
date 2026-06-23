@@ -6,13 +6,13 @@
 
 # Om Salunke
 
-**Founder & Creator of XtraFusion**
+**AI Engineer · Full Stack Developer · Open Source Builder**
 
-*Building AI-Powered Developer Tools • Modern SaaS Products • Open Source Technologies*
+*Building XtraFusion — an open-source ecosystem of AI-powered developer tools*
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Founder+of+XtraFusion;AI+Engineer+%26+GenAI+Developer;Full+Stack+%7C+Cloud+%7C+Systems;Building+Production+SaaS+Products;MCP+Developer+%7C+Open+Source+Maintainer)](https://github.com/om0852)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%26+GenAI+Developer;Full+Stack+%7C+Cloud+%7C+Systems;Building+XtraFusion+%E2%80%94+Open+Source+Dev+Tools;MCP+Developer+%7C+Open+Source+Builder;Shipping+Real+Products+as+a+College+Student)](https://github.com/om0852)
 
 <br/>
 
@@ -28,9 +28,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer**, **AI Engineer**, and **Open Source Creator** from India, building scalable developer platforms and intelligent SaaS products.
+I'm a **college student from India** passionate about Software Engineering, AI, and Open Source. I build real, production-ready tools — not just side projects that live on a hard drive.
 
-Rather than isolated projects, I'm building **XtraFusion** — a unified ecosystem of modern developer tools that help developers build, debug, secure, and scale applications using Artificial Intelligence.
+I created **XtraFusion** — a personal open-source initiative and ecosystem of AI-powered developer tools. Everything under it is designed, built, and shipped by me, from idea to live product.
 
 > **"Great software isn't just written — it's designed, automated, secured, and continuously improved."**
 
@@ -51,9 +51,9 @@ Rather than isolated projects, I'm building **XtraFusion** — a unified ecosyst
 
 <img src="https://raw.githubusercontent.com/om0852/XtraDevPilot/main/assets/xtrafusion_logo.png" width="90" alt="XtraFusion"/>
 
-### One Ecosystem · Multiple Products · Infinite Possibilities
+### One Vision · Multiple Products · All Built by Me
 
-*A collection of AI-powered developer tools designed to improve every stage of software development — from UI creation and browser debugging to AI context management and application security.*
+*XtraFusion is my personal open-source initiative — a growing collection of AI-powered developer tools I've designed and shipped, covering everything from browser debugging and UI components to AI context management and developer security.*
 
 </div>
 
@@ -383,9 +383,9 @@ Every project under **XtraFusion** is built with the same principles:
 
 <img src="https://raw.githubusercontent.com/om0852/XtraDevPilot/main/assets/xtrafusion_logo.png" width="60" alt="XtraFusion"/>
 
-**XtraFusion** · Built with ❤️ by [Om Salunke](https://github.com/om0852)
+**XtraFusion** · Designed & built by [Om Salunke](https://github.com/om0852)
 
-*Turning ideas into developer tools the world actually needs.*
+*A college student shipping real AI-powered tools, one product at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-om0852-181717?style=flat-square&logo=github)](https://github.com/om0852)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Salunke-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/om-salunke-81bb63292)
