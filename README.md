@@ -11,7 +11,7 @@ Founder of the XtraFusion ecosystem — open-source tooling that makes AI coding
 <p>
   <a href="https://www.linkedin.com/in/om-salunke-81bb63292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/om0852"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://omsalunke.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://salunkeom.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/omsalunke0852"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:salunkeom474@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -229,7 +229,7 @@ Real-time pipelines · MCP servers · retrieval for code agents · zero-knowledg
 
 *Shipping > talking. But I do reply to emails.*
 
-**📫 salunkeom474@gmail.com** · [LinkedIn](https://www.linkedin.com/in/om-salunke-81bb63292/) · [Portfolio](https://omsalunke.netlify.app/)
+**📫 salunkeom474@gmail.com** · [LinkedIn](https://www.linkedin.com/in/om-salunke-81bb63292/) · [Portfolio](https://salunkeom.netlify.app/)
 
 <img src="https://komarev.com/ghpvc/?username=om0852&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
 
